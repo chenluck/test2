@@ -14,6 +14,7 @@
 **         the oscillator (PLL) that is part of the microcontroller device.
 **		tag 1.1.1
 * tag1.2.0
+* tag1.3.0
 **     Copyright (c) 2014 Freescale Semiconductor, Inc.
 **     All rights reserved.
 **

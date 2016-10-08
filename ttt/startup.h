@@ -6,6 +6,7 @@
  * are permitted provided that the following conditions are met:
  * tag1.1.1
  * tag1.2.0
+ * tag1.3.0
  * o Redistributions of source code must retain the above copyright notice, this list
  *   of conditions and the following disclaimer.
  *
