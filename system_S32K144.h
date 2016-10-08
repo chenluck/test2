@@ -7,7 +7,7 @@
 **     Reference manual:    KE1xP100M150SF0RM Rev. 0, Mar. 2015
 **     Version:             rev. 1.0, 2014-11-26
 **     Build:               b150330
-**
+**	   tttttttttttttttttttttttttttttttttttttt
 **     Abstract:
 **         Provides a system configuration function and a global variable that
 **         contains the system frequency. It configures the device and initializes
