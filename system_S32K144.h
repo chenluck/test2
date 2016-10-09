@@ -15,6 +15,7 @@
 **		tag 1.1.1
 * tag1.2.0
 * tag1.4.0
+* tag1.5.0
 **     Copyright (c) 2014 Freescale Semiconductor, Inc.
 **     All rights reserved.
 **
