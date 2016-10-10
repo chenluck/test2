@@ -8,6 +8,7 @@
  * tag1.2.0
  * tag1.4.0
  * tag1.4.1 @branch_test1
+ * tag1.4.2 @branch_test1
  * o Redistributions of source code must retain the above copyright notice, this list
  *   of conditions and the following disclaimer.
  *
