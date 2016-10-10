@@ -16,6 +16,7 @@
 * tag1.2.0
 * tag1.2.1 @ branch_test2
 * tag1.2.2 @ branch_test2
+* tag1.2.3 @ branch_test2
 **     Copyright (c) 2014 Freescale Semiconductor, Inc.
 **     All rights reserved.
 **
