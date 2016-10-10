@@ -18,6 +18,7 @@
 * tag1.5.0
 * tag1.6.0
 * tag1.6.1 @origin_test2
+* tag1.6.2 @origin_test2
 **     Copyright (c) 2014 Freescale Semiconductor, Inc.
 **     All rights reserved.
 **
